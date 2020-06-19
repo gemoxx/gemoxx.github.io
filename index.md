@@ -15,3 +15,6 @@ Er ist ein fröhliches grünes Drachenkind. Er und seine bunten Drachenfreunde s
 Konqi sagt:
 
 > Was für ein Tag!
+
+<div style="width: 250px; float: right; padding: 1ex; margin: 1ex; border: 0px solid grey;"><a href="https://community.kde.org/File:Mascot_konqi.png">
+<img src="https://community.kde.org/images.community/thumb/4/40/Mascot_konqi.png/250px-Mascot_konqi.png" alt="Konqi - das Maskottchen von KDE" /></a></div>  CC-BY-SA designed by Tyson Tan
