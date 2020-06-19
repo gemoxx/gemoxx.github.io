@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Konqi - das Maskottchen von KDE
