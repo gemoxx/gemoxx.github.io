@@ -11,3 +11,8 @@ Er ist ein fröhliches grünes Drachenkind. Er und seine bunten Drachenfreunde s
    * riskant
    * leidenschaftlich
    * vergesslich
+
+Konqi sagt:
+
+> **Was für ein Tag!**
+
