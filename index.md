@@ -14,5 +14,4 @@ Er ist ein fröhliches grünes Drachenkind. Er und seine bunten Drachenfreunde s
 
 Konqi sagt:
 
-> **Was für ein Tag!**
-
+> Was für ein Tag!
